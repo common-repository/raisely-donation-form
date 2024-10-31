@@ -1,0 +1,19 @@
+{
+	"apiVersion": 2,
+	"name": "raisely/donation-form",
+	"title": "Raisely Donation Form",
+	"category": "embed",
+	"keywords": [ "recent content" ],
+	"textdomain": "default",
+	"attributes": {
+		"campaignPath": {
+			"type": "string"
+		}
+	},
+	"supports": {
+		"align": false,
+		"html": false,
+    "className": false,
+		"multiple": false
+	}
+}
